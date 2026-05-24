@@ -68,7 +68,7 @@ plt.grid(True)
 plt.show()
 ```
 # Result
-<img width="779" height="596" alt="Screenshot 2026-05-20 082805" src="https://github.com/user-attachments/assets/04504768-067f-4cf8-8683-fc810d2af12d" />
+<img width="1699" height="648" alt="image" src="https://github.com/user-attachments/assets/46387ef4-38d3-4abd-89da-ff907b8513c8" />
 
 
 # Output 
