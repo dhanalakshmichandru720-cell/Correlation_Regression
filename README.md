@@ -51,7 +51,8 @@ plt.grid(True)
 plt.show()
 ```
 # OUTPUT
-<img width="1699" height="648" alt="image" src="https://github.com/user-attachments/assets/46387ef4-38d3-4abd-89da-ff907b8513c8" />
+<img width="1022" height="841" alt="image" src="https://github.com/user-attachments/assets/44cc4ee8-db23-427c-a7d1-25f79de68816" />
+
 
 # RESULT
 Implemented the correletion and regression for data analayst
