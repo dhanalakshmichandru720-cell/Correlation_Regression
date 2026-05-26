@@ -62,7 +62,8 @@ plt.show()
 ```
 # OUTPUT
 <img width="1022" height="841" alt="image" src="https://github.com/user-attachments/assets/44cc4ee8-db23-427c-a7d1-25f79de68816" />
-## RESULT
 
+## RESULT
+Implemented the Correlation and regression for data analysis
 
 
